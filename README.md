@@ -1,4 +1,4 @@
-# ThinkDataStructures
+## ThinkDataStructures
 
 LaTeX source and supporting code for *Think Data Structures: Algorithms and Information Retrieval in Java*
 
@@ -11,12 +11,12 @@ on these topics are too theoretical, too big, and too bottom-up:
 * Too theoretical:  Mathematical analysis of algorithms is based
 on simplifying assumptions that limit its usefulness in practice.
 Many presentations of this topic gloss over the simplifications and
-focus on the math.  In this book I present the most practical subset
+focus on the math. In this book I present the most practical subset
 of this material and eliminate the rest.
 
 * Too big: Most books on these topics are at least 500 pages,
-and some are more than 1000.  By focusing on the topics I think are
-most useful for software engineers, I kept this book under
+and some are more than 1000. By focusing on the topics I think are
+most useful for software engineers,I kept this book under
 250 pages.
 
 * Too bottom-up: Many data structures books focus on how data
